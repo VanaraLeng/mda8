@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sunriseset</string>
+    <string name="SunriseTime" formatted="false">"Sunrise Time: %s"</string>
+    <string name="SunsetTime" formatted="false">"Sunset Time: %s"</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sunriseset</string>
+    <string name="SunriseTime" formatted="false">"日出时间: %s"</string>
+    <string name="SunsetTime" formatted="false">"日落时间: %s"</string>
+</resources>
